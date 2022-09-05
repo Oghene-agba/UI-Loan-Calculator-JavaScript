@@ -13,5 +13,5 @@ The Auto Loan Calculator is mainly intended for car purchases within the U.S. Pe
 - Destination Fee
 - Insurance
 
-Disclaimer
+# Disclaimer
 This is a demo project for proof of concept only.
